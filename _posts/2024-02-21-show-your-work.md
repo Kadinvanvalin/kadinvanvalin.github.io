@@ -4,8 +4,6 @@ title:  "show your work"
 categories: process
 ---
 
-
-[Show Your Work](/show-your-work/)
 I take a lot of notes. No. More than that. There are messy and I don't have a goal for any of it. I fill my todo app with ideas, names of new people I meet and projects that I think would be fun to execute on. I write in notebooks, on printer paper and eventually a lot ends up in a giant markdown document. The notes are incomplete and often I lose enough context that they have no value after a week or two.
 
 In L.A. last week I was introduced to a new book. Show your work by Austin Kleon. I have often come across the idea that it is essential to have an online presence, and a blog is needed to grow a software career, but that isn't something that I find very compelling.
