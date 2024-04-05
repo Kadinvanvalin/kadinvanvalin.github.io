@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "introduction to ktables"
+categories: software
+---
+## what is a ktable?
+A KTable is an abstraction of a changelog stream, where each data record represents an update.
+global ktable - holds all of the data not just a partition
+## what do they solve?
+## when should you not use a ktable?
