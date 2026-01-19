@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Kadin Codes</title>
+    <title>kadin.codes</title>
     <link href="https://kadin.codes/feed.xml" rel="self" />
     <link href="https://kadin.codes" />
     <updated>2026-01-19T15:55:50-06:00</updated>
