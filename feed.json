@@ -29,28 +29,28 @@
             "url": "https://kadin.codes/league-of-legends-creep-score.html",
             "title": "League of Legends &quot;creep&quot; score",
             "summary": "League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the&hellip;",
-            "content_html": "<p>League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs.<br>In 2006 I signed up for a skills course by [thinkful](https://www.thinkful.com) to learn html, javascript and css. The capstone project was to create a site that integrated with an API. The site is broken now because league of legends api has changed. I added a demo button to make it easier to see how the site functioned in 2006.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kadin.codes/media/posts/4/lol-creep-score.png\" alt=\"poorly made dashboard]\" width=\"3342\" height=\"1846\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://kadin.codes/media/posts/4/responsive/lol-creep-score-xs.png 300w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-sm.png 480w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-md.png 768w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-lg.png 1024w\"></figure>",
+            "content_html": "<p>League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs.<br>In 2006 I signed up for a skills course by thinkful (now out of business) to learn html, javascript and css. The capstone project was to create a site that integrated with an API. The site is broken now because league of legends api has changed. I added a demo button to make it easier to see how the site functioned in 2006.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kadin.codes/media/posts/4/lol-creep-score.png\" alt=\"poorly made dashboard]\" width=\"3342\" height=\"1846\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://kadin.codes/media/posts/4/responsive/lol-creep-score-xs.png 300w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-sm.png 480w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-md.png 768w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-lg.png 1024w\"></figure>",
             "author": {
                 "name": "Kadin Van Valin"
             },
             "tags": [
             ],
             "date_published": "2021-08-08T15:40:00-05:00",
-            "date_modified": "2026-01-19T15:53:30-06:00"
+            "date_modified": "2026-01-19T15:54:42-06:00"
         },
         {
             "id": "https://kadin.codes/enders-quiz.html",
             "url": "https://kadin.codes/enders-quiz.html",
             "title": "Enders Quiz",
-            "summary": "Enders game is a 1985 Sciencefiction novel written by Orson Scott card. In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was&hellip;",
-            "content_html": "<p>Enders game is a 1985 Science<span style=\"font-size: inherit;\">fiction novel written by Orson Scott card. </span></p>\n<p>In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was starting to look for employment was<span style=\"font-size: inherit;\">was unsure if I had the skills needed to be marketable.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"font-size: inherit;\" src=\"https://kadin.codes/media/posts/3/enders-quiz.png\" alt=\"Image of a poorly made quiz\" width=\"3560\" height=\"1904\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://kadin.codes/media/posts/3/responsive/enders-quiz-xs.png 300w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-sm.png 480w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-md.png 768w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-lg.png 1024w\"></figure><br>Considering how rough this project is, I think it makes sense that it took me another year to land my first job.</p>",
+            "summary": "Enders game is a 1985 Sciencefiction novel written by Orson Scott card. In 2007 I had just finished a skills course by thinkful. I was&hellip;",
+            "content_html": "<p>Enders game is a 1985 Science<span style=\"font-size: inherit;\">fiction novel written by Orson Scott card. </span></p>\n<p>In 2007 I had just finished a skills course by thinkful. I was starting to look for employment and was<span style=\"font-size: inherit;\"> unsure if I had the skills needed to be marketable. </span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"font-size: inherit;\" src=\"https://kadin.codes/media/posts/3/enders-quiz.png\" alt=\"Image of a poorly made quiz\" width=\"3560\" height=\"1904\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://kadin.codes/media/posts/3/responsive/enders-quiz-xs.png 300w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-sm.png 480w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-md.png 768w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-lg.png 1024w\"></figure><br>It took me another year, and a stint at chicagos dev boot camp until I landed my first job.</p>",
             "author": {
                 "name": "Kadin Van Valin"
             },
             "tags": [
             ],
             "date_published": "2021-08-07T15:38:00-05:00",
-            "date_modified": "2026-01-19T15:53:33-06:00"
+            "date_modified": "2026-01-19T15:55:50-06:00"
         }
     ]
 }
