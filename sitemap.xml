@@ -5,11 +5,23 @@
 <loc>https://kadin.codes/</loc>
 </url>
 <url>
-<loc>https://kadin.codes/hello-world-2.html</loc>
-<lastmod>2026-01-19T15:21:20-06:00</lastmod>
+<loc>https://kadin.codes/enders-quiz.html</loc>
+<lastmod>2026-01-19T15:42:41-06:00</lastmod>
+<image:image>
+<image:loc>https://kadin.codes/media/posts/3/enders-quiz.png</image:loc>
+<image:title><![CDATA[Image of a poorly made quiz]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://kadin.codes/hello-world.html</loc>
-<lastmod>2026-01-19T15:20:38-06:00</lastmod>
+<loc>https://kadin.codes/league-of-legends-creep-score.html</loc>
+<lastmod>2026-01-19T15:42:04-06:00</lastmod>
+<image:image>
+<image:loc>https://kadin.codes/media/posts/4/lol-creep-score.png</image:loc>
+<image:title><![CDATA[poorly made dashboard]]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kadin.codes/show-your-work.html</loc>
+<lastmod>2026-01-19T15:43:07-06:00</lastmod>
 </url>
 </urlset>

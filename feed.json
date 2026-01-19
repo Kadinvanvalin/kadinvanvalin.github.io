@@ -10,30 +10,46 @@
     },
     "items": [
         {
-            "id": "https://kadin.codes/hello-world-2.html",
-            "url": "https://kadin.codes/hello-world-2.html",
-            "title": "Hello world (copy)",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "id": "https://kadin.codes/show-your-work.html",
+            "url": "https://kadin.codes/show-your-work.html",
+            "title": "show your work",
+            "summary": "I take a lot of notes. No. More than that. There are messy and I don't have a goal for any of it. I fill my todo app with ideas, names of new people I meet and projects that I think would be fun to&hellip;",
+            "content_html": "<p><br>I take a lot of notes. No. More than that. There are messy and I don't have a goal for any of it. I fill my todo app with ideas, names of new people I meet and projects that I think would be fun to execute on. I write in notebooks, on printer paper and eventually a lot ends up in a giant markdown document. The notes are incomplete and often I lose enough context that they have no value after a week or two.<br><br>In L.A. last week I was introduced to a new book. Show your work by Austin Kleon. I have often come across the idea that it is essential to have an online presence, and a blog is needed to grow a software career, but that isn't something that I find very compelling.<br>I hate talking about myself, and if I wanted to go into sales I would have. No, I may try in fits and starts, but marketing yourself for the purpose of marketing yourself doesn't resonate with me. Show your work makes a slightly different argument. As a follow-up to Steal like an artist, Austin argues that having an online presence is about allowing others to steal from you. <br><br>Furthermore, I like the idea of creating a space to steal from myself. Instead of the rushed scribbling that can lead to forgetting the original intent, something published should (hopefully) have a little more context, be more formal and make more sense in a year from now when I am reviewing what I have worked on.</p>",
             "author": {
                 "name": "Kadin Van Valin"
             },
             "tags": [
             ],
-            "date_published": "2026-01-19T15:21:20-06:00",
-            "date_modified": "2026-01-19T15:21:20-06:00"
+            "date_published": "2026-01-19T15:43:07-06:00",
+            "date_modified": "2026-01-19T15:43:07-06:00"
         },
         {
-            "id": "https://kadin.codes/hello-world.html",
-            "url": "https://kadin.codes/hello-world.html",
-            "title": "Hello world",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "id": "https://kadin.codes/league-of-legends-creep-score.html",
+            "url": "https://kadin.codes/league-of-legends-creep-score.html",
+            "title": "League of Legends &quot;creep&quot; score",
+            "summary": "League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs. In 2006 I signed up for a skills&hellip;",
+            "content_html": "<p>League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs.<br>In 2006 I signed up for a skills course by [thinkful](https://www.thinkful.com) to learn html, javascript and css. The capstone project was to create a site that integrated with an API. The site is broken now because league of legends api has changed. I added a demo button to make it easier to see how the site functioned in 2006.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kadin.codes/media/posts/4/lol-creep-score.png\" alt=\"poorly made dashboard]\" width=\"3342\" height=\"1846\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kadin.codes/media/posts/4/responsive/lol-creep-score-xs.png 640w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-sm.png 768w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-md.png 1024w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-lg.png 1366w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-xl.png 1600w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-2xl.png 1920w\"></figure>",
             "author": {
                 "name": "Kadin Van Valin"
             },
             "tags": [
             ],
-            "date_published": "2026-01-19T15:20:38-06:00",
-            "date_modified": "2026-01-19T15:20:38-06:00"
+            "date_published": "2021-08-08T15:40:00-05:00",
+            "date_modified": "2026-01-19T15:42:04-06:00"
+        },
+        {
+            "id": "https://kadin.codes/enders-quiz.html",
+            "url": "https://kadin.codes/enders-quiz.html",
+            "title": "Enders Quiz",
+            "summary": "Enders game is a 1985 Sciencefiction novel written by Orson Scott card. In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was starting to look for employment waswas unsure if I had the skills needed to be marketable. Considering how rough this&hellip;",
+            "content_html": "<p>Enders game is a 1985 Science<span style=\"font-size: inherit;\">fiction novel written by Orson Scott card. </span></p>\n<p>In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was starting to look for employment was<span style=\"font-size: inherit;\">was unsure if I had the skills needed to be marketable.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"font-size: inherit;\" src=\"https://kadin.codes/media/posts/3/enders-quiz.png\" alt=\"Image of a poorly made quiz\" width=\"3560\" height=\"1904\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kadin.codes/media/posts/3/responsive/enders-quiz-xs.png 640w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-sm.png 768w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-md.png 1024w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-lg.png 1366w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-xl.png 1600w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-2xl.png 1920w\"></figure><br>Considering how rough this project is, I think it makes sense that it took me another year to land my first job.</p>",
+            "author": {
+                "name": "Kadin Van Valin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-07T15:38:00-05:00",
+            "date_modified": "2026-01-19T15:42:41-06:00"
         }
     ]
 }
