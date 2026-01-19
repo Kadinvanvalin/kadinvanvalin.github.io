@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kadin Codes",
+    "description": "",
+    "home_page_url": "https://kadin.codes",
+    "feed_url": "https://kadin.codes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kadin Van Valin"
+    },
+    "items": [
+        {
+            "id": "https://kadin.codes/hello-world-2.html",
+            "url": "https://kadin.codes/hello-world-2.html",
+            "title": "Hello world (copy)",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kadin Van Valin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-19T15:21:20-06:00",
+            "date_modified": "2026-01-19T15:21:20-06:00"
+        },
+        {
+            "id": "https://kadin.codes/hello-world.html",
+            "url": "https://kadin.codes/hello-world.html",
+            "title": "Hello world",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kadin Van Valin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-19T15:20:38-06:00",
+            "date_modified": "2026-01-19T15:20:38-06:00"
+        }
+    ]
+}

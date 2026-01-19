@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kadin Codes</title>
+    <link href="https://kadin.codes/feed.xml" rel="self" />
+    <link href="https://kadin.codes" />
+    <updated>2026-01-19T15:21:20-06:00</updated>
+    <author>
+        <name>Kadin Van Valin</name>
+    </author>
+    <id>https://kadin.codes</id>
+
+    <entry>
+        <title>Hello world (copy)</title>
+        <author>
+            <name>Kadin Van Valin</name>
+        </author>
+        <link href="https://kadin.codes/hello-world-2.html"/>
+        <id>https://kadin.codes/hello-world-2.html</id>
+
+        <updated>2026-01-19T15:21:20-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello world</title>
+        <author>
+            <name>Kadin Van Valin</name>
+        </author>
+        <link href="https://kadin.codes/hello-world.html"/>
+        <id>https://kadin.codes/hello-world.html</id>
+
+        <updated>2026-01-19T15:20:38-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
