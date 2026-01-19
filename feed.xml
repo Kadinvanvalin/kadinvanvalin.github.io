@@ -20,7 +20,7 @@
         <updated>2026-01-19T15:43:07-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I take a lot of notes. No. More than that. There are messy and I don't have a goal for any of it. I fill my todo app with ideas, names of new people I meet and projects that I think would be fun to&hellip;
+                    I take a lot of notes. No. More than that. There are messy and I don't have a goal for any of it. I fill&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -40,14 +40,14 @@
         <updated>2021-08-08T15:40:00-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs. In 2006 I signed up for a skills&hellip;
+                    League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>League of Legends is an online tower defense game. A core compenent of the game is landing the killing blow on minions that defend the towers. The count of this is normally called creep score, or cs.<br>In 2006 I signed up for a skills course by [thinkful](https://www.thinkful.com) to learn html, javascript and css. The capstone project was to create a site that integrated with an API. The site is broken now because league of legends api has changed. I added a demo button to make it easier to see how the site functioned in 2006.</p>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://kadin.codes/media/posts/4/lol-creep-score.png" alt="poorly made dashboard]" width="3342" height="1846" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kadin.codes/media/posts/4/responsive/lol-creep-score-xs.png 640w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-sm.png 768w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-md.png 1024w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-lg.png 1366w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-xl.png 1600w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kadin.codes/media/posts/4/lol-creep-score.png" alt="poorly made dashboard]" width="3342" height="1846" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://kadin.codes/media/posts/4/responsive/lol-creep-score-xs.png 300w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-sm.png 480w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-md.png 768w ,https://kadin.codes/media/posts/4/responsive/lol-creep-score-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -62,14 +62,14 @@
         <updated>2021-08-07T15:38:00-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Enders game is a 1985 Sciencefiction novel written by Orson Scott card. In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was starting to look for employment waswas unsure if I had the skills needed to be marketable. Considering how rough this&hellip;
+                    Enders game is a 1985 Sciencefiction novel written by Orson Scott card. In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Enders game is a 1985 Science<span style="font-size: inherit;">fiction novel written by Orson Scott card. </span></p>
 <p>In 2007 I had just finished a skills course by [thinkful](https://www.thinkful.com). I was starting to look for employment was<span style="font-size: inherit;">was unsure if I had the skills needed to be marketable.</span></p>
-<figure class="post__image"><img loading="lazy"  style="font-size: inherit;" src="https://kadin.codes/media/posts/3/enders-quiz.png" alt="Image of a poorly made quiz" width="3560" height="1904" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kadin.codes/media/posts/3/responsive/enders-quiz-xs.png 640w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-sm.png 768w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-md.png 1024w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-lg.png 1366w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-xl.png 1600w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-2xl.png 1920w"></figure><br>Considering how rough this project is, I think it makes sense that it took me another year to land my first job.</p>
+<figure class="post__image"><img loading="lazy"  style="font-size: inherit;" src="https://kadin.codes/media/posts/3/enders-quiz.png" alt="Image of a poorly made quiz" width="3560" height="1904" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://kadin.codes/media/posts/3/responsive/enders-quiz-xs.png 300w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-sm.png 480w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-md.png 768w ,https://kadin.codes/media/posts/3/responsive/enders-quiz-lg.png 1024w"></figure><br>Considering how rough this project is, I think it makes sense that it took me another year to land my first job.</p>
             ]]>
         </content>
     </entry>
